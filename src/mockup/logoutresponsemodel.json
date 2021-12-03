@@ -1,0 +1,7 @@
+{
+    "statusCode": 200,
+    "timestamp": "2021-12-03T13:34:59.441Z",
+    "path": "/logout",
+    "message": "User logged out successfully",
+    "responseCode": "LOGGED_OUT"
+}
